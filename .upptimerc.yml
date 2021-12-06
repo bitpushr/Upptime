@@ -6,17 +6,32 @@ sites:
   - name: bitpushr Website
     url: https://bitpushr.net
   - name: Plex Media Server
-    url: 	https://180.150.55.96:32400/
+    check: "tcp-ping"
+    url: 	180.150.55.96
+    port: 32400
   - name: Jackett - Query Indexer
-    url: http://180.150.55.96:25633/
+    check: "tcp-ping"
+    url: 180.150.55.96
+    port: 25633
   - name: Overseerr - Media Requester
-    url: http://180.150.55.96:5055/
+    check: "tcp-ping"
+    url: 180.150.55.96
+    port: 5055
   - name: Radarr - Media Finder
-    url: http://180.150.55.96:7878/
+    check: "tcp-ping"
+    url: 180.150.55.96
+    port: 7878
   - name: Sonarr - Media Finder
-    url: http://180.150.55.96:8989/
+    check: "tcp-ping"
+    url: 180.150.55.96
+    port: 8989
   - name: Tautulli - PMS Monitoring
-    url: 	http://180.150.55.96:8181/
+    check: "tcp-ping"
+    url: 	180.150.55.96
+    port: 8181
+  - name: NextDNS Instance - Melb, AU
+    url: 45.90.28.66
+    
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
