@@ -6,17 +6,17 @@ sites:
   - name: bitpushr Website
     url: https://bitpushr.net
   - name: Plex Media Server
-    url: http://plex.bitpushr.net
+    url: 	https://180.150.55.96:32400/
   - name: Jackett - Query Indexer
-    url: http://jackett.bitpushr.net
+    url: http://180.150.55.96:25633/
   - name: Overseerr - Media Requester
-    url: http://overseerr.bitpushr.net
+    url: http://180.150.55.96:5055/
   - name: Radarr - Media Finder
-    url: http://radarr.bitpushr.net
+    url: http://180.150.55.96:7878/
   - name: Sonarr - Media Finder
-    url: http://sonarr.bitpushr.net
+    url: http://180.150.55.96:8989/
   - name: Tautulli - PMS Monitoring
-    url: http://tautulli.bitpushr.net
+    url: 	http://180.150.55.96:8181/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
