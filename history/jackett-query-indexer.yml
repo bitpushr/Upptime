@@ -1,7 +1,7 @@
-url: http://jackett.bitpushr.net
+url: http://180.150.55.96:25633/
 status: up
 code: 200
-responseTime: 1293
-lastUpdated: 2021-12-06T18:36:23.652Z
+responseTime: 876
+lastUpdated: 2021-12-06T18:40:43.699Z
 startTime: Mon Dec 06 2021 18:36:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
