@@ -7,7 +7,7 @@ sites:
     url: https://bitpushr.net
   - name: Plex Media Server
     check: "tcp-ping"
-    url: 	180.150.55.96
+    url: 180.150.55.96
     port: 32400
   - name: Jackett - Query Indexer
     check: "tcp-ping"
