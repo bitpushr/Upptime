@@ -43,7 +43,7 @@ status-website:
   name: Upptime
   introTitle: "bitpushr's Homelab Status"
   introMessage: This status page shows how my services are performing live. It also explains reasons for downtime, if any.
-  theme: dark
+  theme: night
   navbar:
     - title: Status
       href: /
