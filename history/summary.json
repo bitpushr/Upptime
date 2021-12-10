@@ -4,19 +4,19 @@
     "url": "https://bitpushr.net",
     "icon": "https://favicons.githubusercontent.com/bitpushr.net",
     "slug": "bitpushr-website",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 937,
-    "timeDay": 878,
-    "timeWeek": 937,
-    "timeMonth": 937,
-    "timeYear": 937,
+    "status": "up",
+    "uptime": "99.66%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
+    "time": 930,
+    "timeDay": 846,
+    "timeWeek": 930,
+    "timeMonth": 930,
+    "timeYear": 930,
     "dailyMinutesDown": {
-      "2021-12-10": 1
+      "2021-12-10": 20
     }
   },
   {
