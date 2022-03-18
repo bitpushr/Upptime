@@ -4,8 +4,8 @@ repo: Upptime # The name of this repository
 
 # Add your sites here
 sites:
-  - name: bitpushr Website
-    url: https://bitpushr.net
+  #- name: bitpushr Website
+    #url: https://bitpushr.net
   - name: Plex Media Server
     check: "tcp-ping"
     url: 180.150.55.96
@@ -28,7 +28,7 @@ sites:
     port: 8989
   - name: Tautulli - PMS Monitoring
     check: "tcp-ping"
-    url: 	180.150.55.96
+    url:  180.150.55.96
     port: 8181
   - name: NextDNS Instance - Melb, AU
     check: "tcp-ping"
