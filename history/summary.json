@@ -4,46 +4,50 @@
     "url": "180.150.55.96",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "plex-media-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 184,
     "timeDay": 152,
     "timeWeek": 196,
     "timeMonth": 179,
     "timeYear": 184,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-21": 5
+    }
   },
   {
     "name": "Jackett - Query Indexer",
     "url": "180.150.55.96",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "jackett-query-indexer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 194,
     "timeDay": 152,
     "timeWeek": 196,
     "timeMonth": 179,
     "timeYear": 194,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-21": 3
+    }
   },
   {
     "name": "Overseerr - Media Requester",
     "url": "180.150.55.96",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "overseerr-media-requester",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
@@ -51,17 +55,19 @@
     "timeWeek": 195,
     "timeMonth": 179,
     "timeYear": 203,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-21": 2
+    }
   },
   {
     "name": "Radarr - Media Finder",
     "url": "180.150.55.96",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "radarr-media-finder",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 192,
@@ -69,17 +75,19 @@
     "timeWeek": 196,
     "timeMonth": 179,
     "timeYear": 192,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-21": 2
+    }
   },
   {
     "name": "Sonarr - Media Finder",
     "url": "180.150.55.96",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "sonarr-media-finder",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 194,
@@ -87,17 +95,19 @@
     "timeWeek": 196,
     "timeMonth": 179,
     "timeYear": 194,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-21": 1
+    }
   },
   {
     "name": "Tautulli - PMS Monitoring",
     "url": "180.150.55.96",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tautulli-pms-monitoring",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 195,
@@ -105,7 +115,9 @@
     "timeWeek": 195,
     "timeMonth": 179,
     "timeYear": 195,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-21": 1
+    }
   },
   {
     "name": "NextDNS Instance - Melb, AU",
@@ -113,18 +125,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "next-dns-instance-melb-au",
     "status": "down",
-    "uptime": "98.21%",
+    "uptime": "98.09%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "57.80%",
-    "uptimeMonth": "90.29%",
-    "uptimeYear": "98.21%",
+    "uptimeWeek": "54.85%",
+    "uptimeMonth": "89.61%",
+    "uptimeYear": "98.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-21": 85,
+      "2022-05-21": 382,
       "2022-05-20": 1440,
       "2022-05-19": 1440,
       "2022-05-18": 1289
