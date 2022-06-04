@@ -4,10 +4,10 @@
     "url": "180.150.55.96",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "plex-media-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
     "time": 185,
@@ -16,6 +16,7 @@
     "timeMonth": 191,
     "timeYear": 185,
     "dailyMinutesDown": {
+      "2022-06-04": 2,
       "2022-05-24": 31,
       "2022-05-21": 26
     }
@@ -25,11 +26,11 @@
     "url": "180.150.55.96",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "jackett-query-indexer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.97%",
     "time": 194,
     "timeDay": 218,
@@ -37,6 +38,7 @@
     "timeMonth": 191,
     "timeYear": 194,
     "dailyMinutesDown": {
+      "2022-06-04": 2,
       "2022-05-24": 52,
       "2022-05-21": 24
     }
@@ -46,10 +48,10 @@
     "url": "180.150.55.96",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "overseerr-media-requester",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.97%",
     "time": 202,
@@ -58,6 +60,7 @@
     "timeMonth": 191,
     "timeYear": 202,
     "dailyMinutesDown": {
+      "2022-06-04": 2,
       "2022-05-24": 51,
       "2022-05-21": 23
     }
@@ -67,11 +70,11 @@
     "url": "180.150.55.96",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "radarr-media-finder",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.97%",
     "time": 192,
     "timeDay": 219,
@@ -79,6 +82,7 @@
     "timeMonth": 191,
     "timeYear": 192,
     "dailyMinutesDown": {
+      "2022-06-04": 1,
       "2022-05-24": 50,
       "2022-05-21": 23
     }
@@ -88,11 +92,11 @@
     "url": "180.150.55.96",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "sonarr-media-finder",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.97%",
     "time": 194,
     "timeDay": 217,
@@ -100,6 +104,7 @@
     "timeMonth": 191,
     "timeYear": 194,
     "dailyMinutesDown": {
+      "2022-06-04": 1,
       "2022-05-24": 49,
       "2022-05-21": 23
     }
@@ -109,10 +114,10 @@
     "url": "180.150.55.96",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tautulli-pms-monitoring",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.97%",
     "time": 195,
@@ -121,6 +126,7 @@
     "timeMonth": 191,
     "timeYear": 195,
     "dailyMinutesDown": {
+      "2022-06-04": 1,
       "2022-05-24": 47,
       "2022-05-21": 23
     }
@@ -131,18 +137,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "next-dns-instance-melb-au",
     "status": "down",
-    "uptime": "90.54%",
+    "uptime": "90.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "44.23%",
-    "uptimeYear": "90.54%",
+    "uptimeMonth": "42.56%",
+    "uptimeYear": "90.28%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-04": 103,
+      "2022-06-04": 835,
       "2022-06-03": 1440,
       "2022-06-02": 1440,
       "2022-06-01": 1440,
